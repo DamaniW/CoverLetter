@@ -1,6 +1,6 @@
 # CoverLetter
 
-
+![](https://github.com/DamaniW/CoverLetter/blob/main/Images/IMG-3276.jpg)
 
 Here are resources that can be used to help your career:
 
