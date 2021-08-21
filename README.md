@@ -8,3 +8,6 @@ Here are resources that can be used to help your career:
 
 Here is a sample of a Brand Statement
 * [Brand Statement](https://drive.google.com/file/d/1rNRauHkGgucM9bSeC0gO-txaKuQlSu_x/view)
+
+Here is a sample of a Behavioral Interview Prep Guide 
+* [Interview prep guide](https://drive.google.com/file/d/1Q9K1tYFTEmRGZuzehMQIZY-ot3ftuQzn/view)
